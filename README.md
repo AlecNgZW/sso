@@ -1,3 +1,6 @@
+This is an SSO Login with spring boot base using Create React App Node.js front end base for ReactJS
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
